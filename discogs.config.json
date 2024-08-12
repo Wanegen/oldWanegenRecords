@@ -1,0 +1,10 @@
+{
+    "oauth": {
+        "requestTokenUrl": "https://api.discogs.com/oauth/request_token",
+        "authorizeUrl": "https://www.discogs.com/fr/oauth/authorize",
+        "accessTokenUrl": "https://api.discogs.com/oauth/access_token"
+    },
+    "appUserAgent": "WanegenRecords/1.0",
+    "storageAppId": "@WanegenRecords:",
+    "apiBaseUrl": "https://api.discogs.com/"
+}
